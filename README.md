@@ -9,8 +9,8 @@
 ### Hello there 👋
 My name is **Ricardo Martins**. Im Full Stack Developer Student at Driven Education
 
-- 🔭 I’m currently looking for working on Software engineering
-- 🌱 I’m currently learning Express.js
+- 🔭 I’m currently looking for working on Software Engineering
+- 🌱 I’m currently learning Postgres
 - 🎮 Gamer (you can call me to play together)
 
 ### Talk with me:
