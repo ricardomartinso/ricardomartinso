@@ -7,7 +7,7 @@
 </div>
 
 ### Hello there 👋
-My name is **Ricardo Martins**. Im Full Stack Developer Student at Driven Education
+My name is **Ricardo Martins**. Im Full Stack Developer.
 
 - 🔭 I’m currently looking for working on Software Engineering
 - 🌱 I’m currently learning Typescript
