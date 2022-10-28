@@ -1,7 +1,6 @@
 <div style="display: inline_block"><br>
     
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ricardomartinsdev/)
-[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/c4rd07)
 ![Discord](https://img.shields.io/badge/Discord-c4rd%233991-%237289DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
     
 </div>
