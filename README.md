@@ -89,18 +89,19 @@ My name is **Ricardo Martins**. Im Full Stack Developer.
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     
-  <img align="center"  alt="Ricardo Martins's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomartinso&theme=midnight-purple" height="200" />
+  <img align="center" width="35%" alt="Ricardo Martins's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomartinso&theme=midnight-purple" height="200" />
 
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="right" alt="Paula Wiltiner's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ricardomartinso&show_icons=true&hide_border=true&theme=midnight-purple" height="200"/>
+    <img align="right" width="60%" height="200" alt="Ricardo Martins's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ricardomartinso&show_icons=true&hide_border=true&theme=midnight-purple"/>
   </a>
 </div>
 
 #
-###  < Snake-Eating Contribution />
+<div style="margin-top:50px">
+<h1> < Snake-Eating Contribution /> </h1>
 <p><img align="center" src="https://github.com/ricardomartinso/ricardomartinso/blob/output/github-contribution-grid-snake.svg" alt="ricardomartinso" /></p>
-
+</div>
 
 [instagram]: https://www.instagram.com/ricardoomartins_/
 [linkedin]: https://linkedin.com/in/ricardomartinsdev
