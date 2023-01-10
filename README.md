@@ -9,7 +9,7 @@
 My name is **Ricardo Martins**. Im Full Stack Developer.
 
 - 🔭 I’m currently looking for working on Software Engineering
-- 🌱 I’m currently learning VueJs
+- 🌱 I’m currently learning Java
 - 🎮 Gamer (you can call me to play together)
 
 ### Talk with me:
