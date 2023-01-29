@@ -1,9 +1,4 @@
-<div style="display: inline_block"><br>
-    
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ricardomartinsdev/)
-![Discord](https://img.shields.io/badge/Discord-c4rd%233991-%237289DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
-    
-</div>
+
 
 ### Hello there 👋
 My name is **Ricardo Martins**. Im Full Stack Developer.
@@ -13,76 +8,47 @@ My name is **Ricardo Martins**. Im Full Stack Developer.
 - 🎮 Gamer (you can call me to play together)
 
 ### Talk with me:
-[<img align="left" alt="ricardomartinsdev | LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="ricardoomartins_ | Instagram" width="32px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-<br />
+
+<div align="left">
+    
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardomartinso/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardoomartins_)
+![Discord](https://img.shields.io/badge/c4rd%233991-%235865F2.svg?style=for-the-badge&labelColor=%235865F2&logo=discord&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardomartinso.dev@gmail.com?Subject=Gostaria%20de%20entrar%20em%20contato.)
+    
+</div>
+
 
 ### Languages and Tools:
-<!--Icons 8 -->
 
-<!--VSCODE -->
-<img width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<div align="left">
+    
+    
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<!--HTML -->
-<img align="left" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
-
-<!--CSS -->
-<img align="left" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-
-<!--JAVASCRIPT -->
-<img align="left" alt="js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<!--Typescript -->
-<img align="left" alt="Typescript" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-
-<!--REACT -->
-<img align="left" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-<!--NODEJS -->
-<img align="left" alt="nodeJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-<!--EXPRESSJS -->
-
-<img align="left" alt="nodeJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-
-<!--JEST -->
-<img align="left" alt="jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-
-<!--GIT -->
-<img align="left" alt="GIT" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<!--GITHUB -->
-<img align="left" alt="GIT" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg"/>
-
-<!--POSTGRESQL -->
-<img align="left" alt="PostgreSQL" width="29px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-
-<!--DOCKER -->
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-<!--TERMINAL -->
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-<!--DRUPAL -->
-<img align="left" alt="Drupal" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain.svg" />
-<! -- AWS -->
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-
-<!--POP OS -->
-<img align="left" width="30px" src="https://img.icons8.com/fluency/42/000000/pop-os-logo.png"/>
-
-<!-- SLACK -->
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
-
-#
-<br>
-
-<!-- FIGMA -->
-<img  align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
+</div>
 
 ### <br>
 
@@ -103,5 +69,3 @@ My name is **Ricardo Martins**. Im Full Stack Developer.
 <p><img align="center" src="https://github.com/ricardomartinso/ricardomartinso/blob/output/github-contribution-grid-snake.svg" alt="ricardomartinso" /></p>
 </div>
 
-[instagram]: https://www.instagram.com/ricardoomartins_/
-[linkedin]: https://linkedin.com/in/ricardomartinsdev
